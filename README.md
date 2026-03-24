@@ -1,5 +1,5 @@
 # registro-di-laboratorio-5BIA
-Testo
+
 Mia nonna, quando è morta, non mi ha lasciato niente
 Mio nonno è esploso in guerra, non mi ha lasciato il Rolex
 Ma tu, bro, sei diversa, la mia rivoluzione
