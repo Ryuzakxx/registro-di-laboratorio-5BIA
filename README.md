@@ -1,6 +1,6 @@
 # 🔬 Registrony del Laboratoriony
 
-> Sistema di gestione dei laboratori scolastici — ITT Enrico Fermi, Francavilla Fontana
+> Sistema di gestione dei laboratori scolastici — ITT G. Enrico Fermi, Francavilla Fontana
 
 ---
 
@@ -20,6 +20,12 @@
 
 ---
 
+## 🌐 Demo
+
+Il sito è live a [link](https://your-link-here.com)
+
+---
+
 ## 🛠️ Stack tecnologico
 
 | Layer | Tecnologia |
@@ -27,39 +33,9 @@
 | Backend | PHP 8+ |
 | Database | MySQL 8 (via PDO) |
 | Frontend | HTML5, CSS3, JavaScript vanilla |
-| Server locale | XAMPP / WAMP |
 
 ---
 
-## 🚀 Installazione
-
-### Prerequisiti
-- XAMPP (o equivalente) con PHP 8+ e MySQL 8
-- Browser moderno
-
-### Setup
-
-1. **Clona la repo** nella cartella `htdocs` di XAMPP:
-   ```bash
-   git clone <url-repo> htdocs/registrony
-   ```
-
-2. **Avvia** Apache e MySQL da XAMPP Control Panel.
-
-3. **Crea il database** eseguendo lo script SQL:
-   - Apri [phpMyAdmin](http://localhost/phpmyadmin)
-   - Importa il file `registrony.sql`
-
-   *In alternativa, da terminale:*
-   ```bash
-   mysql -u root -p < registrony.sql
-   ```
-
-4. **Configura la connessione** in `config/database.php` se necessario (di default usa `root` senza password).
-
-5. **Accedi** su [http://localhost/registrony](http://localhost/registrony)
-
----
 
 ## 📁 Struttura del progetto
 
@@ -105,7 +81,7 @@ registrony/
 
 | Nome | Ruolo |
 |------|-------|
-| **Francesco Moretto** | Creator |
+| **Francesco Moretto** | Sviluppatore |
 | **Daniele Signorile** | Sviluppatore |
 | **Patrick Colucci** | Sviluppatore |
 
