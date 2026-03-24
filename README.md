@@ -20,12 +20,6 @@
 
 ---
 
-## 🌐 Demo
-
-Il sito è live a https://ryuzakxx.github.io/registro-di-laboratorio-5BIA/
-
----
-
 ## 🛠️ Stack tecnologico
 
 | Layer | Tecnologia |
